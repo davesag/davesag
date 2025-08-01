@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @davesag
-- 👀 I write a lot of `javascript` and `node` code.
-- 💞️ I’m always interested in contributions to the public projects I maintain.
-- 📫 Contact me by raising an issue or a pull request.
+- 👀 I used to write a lot of `javascript` and `node` code.
+- 💞️ I’ve pretty much stopped maintaining all my old code as I have a job that keeps me busy.
+- 📫 Contact me if you want to take over any of my old code.
 
 More about me at [about.me/davesag](https://about.me/davesag).
 
